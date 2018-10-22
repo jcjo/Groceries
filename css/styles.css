@@ -1,0 +1,19 @@
+.your-list {
+  display: none;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.helpBlock {
+  display: none;
+  color: red;
+  font-style: italic;
+}
+
+.addedBlock {
+  display: none;
+  color: green;
+  
+}
